@@ -1,2 +1,2 @@
 # SiteMalie
-Primeiro projeto Front-end com design próprio, linkando banco de dados.
+Primeiro projeto Front-end com design próprio e banco de dados associado.
